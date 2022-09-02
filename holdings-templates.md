@@ -1,10 +1,7 @@
-# Creating holdings templates in Evergreen 3.8
+# Creating holdings templates
+Evergreen version 3.8
 
 There are two ways to create holdings templates in Evergreen v.3.8: using the Holdings Editor integrated template editor and the Local Administration > Holdings Template Editor.
-
-- The integrated holdings and template editor is new with version 3.8 and uses a different interface and base code.
-- The standalone Holdings Template Editor uses the interface and base code from version 3.6.
-- There are known issues with Item Alerts and Item Notes in holdings templates – alerts and notes cannot be applied to new templates and must be removed from existing templates.
 
 ## Holdings Editor integrated holdings template editor
 This holdings editor interface does not support creating templates that include Item Alerts or Item Notes. Alerts and Notes must be added when item records are being created.
